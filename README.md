@@ -1,5 +1,34 @@
 # Crud-MERN-Stack
-<p>🚀 CRUD Application - User Management<br />This project is a simple CRUD (Create, Read, Update, Delete) application for managing user information. The app allows users to input their first name, last name, email, and password, which are then saved and displayed in a table format.</p>
-<p>Features:<br />Create: Users can add new details by entering their first name, last name, email, and password.<br />Read: The data is displayed in a table for easy viewing.<br />Update: Users can edit the details of an existing entry using the Edit button.<br />Delete: Users can remove an entry from the table using the Delete button.<br />Technologies Used:<br />React: For building the user interface.<br />Formik: For form handling and validation.<br />Yup: For validating the form input.<br />LocalStorage: For data persistence across page reloads.<br />How It Works:<br />Adding User: Users enter their details into a form and click "Save" to add the data to the list.<br />Displaying Data: All added users are shown in a table, with each row displaying the user's details.<br />Editing Data: The Edit button allows users to update any field in the table.<br />Deleting Data: The Delete button removes the selected entry from the list.<br />Feel free to clone this repository, contribute, or use it as a template for your own applications!</p>
-<p>&nbsp;</p>
-<!-- Comments are visible in the HTML source only -->
+<h1>🚀 CRUD Application - User Management</h1>
+
+<p>This project is a simple <b>CRUD (Create, Read, Update, Delete)</b> application for managing user information. The app allows users to input their <b> first name, last name, email, </b>and <b> password</b>, which are then saved and displayed in a table format.</p>
+
+<h3>Features:</h3>
+<ul>
+  <li>
+  <b>Create:</b> Users can add new details by entering their first name, last name, email, and password.
+  </li>
+  <li>
+<b>Read:</b> The data is displayed in a table for easy viewing.
+  </li>
+  <li>
+<b>Update:</b> Users can edit the details of an existing entry using the Edit button.
+  </li>
+  <li>
+<b>Delete:</b> Users can remove an entry from the table using the Delete button.
+  </li>
+</ul>
+
+<h3>How It Works:</h3>
+<li>
+<b>Adding User:</b> Users enter their details into a form and click "Save" to add the data to the list.
+</li>
+<li>
+<b>Displaying Data:</b> All added users are shown in a table, with each row displaying the user's details.
+</li>
+<li>
+<b>Editing Data:</b> The Edit button allows users to update any field in the table.
+</li>
+<li>
+<b>Deleting Data:</b> The Delete button removes the selected entry from the list.
+</li>
